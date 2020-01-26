@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="-----EXYU-----" tvg-logo="http://picon.webhop.net/logo/flag/exyu.png" group-title="EXYU",-----EXYU-----
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135955
+#EXTINF:-1 tvg-name="RS: RTS 1" group-title="EXYU",RS: RTS 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2961
+#EXTINF:-1 tvg-name="RS: RTS 2" group-title="EXYU",RS: RTS 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2962
+#EXTINF:-1 tvg-name="RS: RTS 3" group-title="EXYU",RS: RTS 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2963
+#EXTINF:-1 tvg-name="RS: RTS HD" group-title="EXYU",RS: RTS HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2960
+#EXTINF:-1 tvg-name="RS: RTS Satelite" group-title="EXYU",RS: RTS Satelite
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2964
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Nova TV" group-title="EXYU",RS: Nova TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2955
+#EXTINF:-1 tvg-name="RS: B92" group-title="EXYU",RS: O2 TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2944
+#EXTINF:-1 tvg-name="HR: Al Jazeera Balkans" group-title="EXYU",HR: Al Jazeera Balkans
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3020
+#EXTINF:-1 tvg-name="RS: Happy TV" group-title="EXYU",RS: Happy TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2952
+#EXTINF:-1 tvg-name="RS: HAPPY REALITY" group-title="EXYU",RS: Happy Reality
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176065
+#EXTINF:-1 tvg-name="RS: Prva 1" group-title="EXYU",RS: Prva 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2957
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Prva Plus" group-title="EXYU",RS: Prva Plus
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2958
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Prva Max" group-title="EXYU",RS: Prva Max
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176067
+#EXTINF:-1 tvg-name="BH: BN SAT" group-title="EXYU",BH: BN SAT
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3055
+#EXTINF:-1 tvg-id="NULL" tvg-name="BH: BN Music" group-title="EXYU",BH: BN Music
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3056
+#EXTINF:-1 tvg-id="NULL" tvg-name="BH: OBN" group-title="EXYU",BH: OBN
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3050
+#EXTINF:-1 tvg-id="NULL" tvg-name="BH: Face TV HD" group-title="EXYU",BH: Face TV HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3053
+#EXTINF:-1 tvg-name="BH: Federalna TV" group-title="EXYU",BH: Federalna TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3054
+#EXTINF:-1 tvg-name="BH: BHTV" group-title="EXYU",BH: BHTV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3051
+#EXTINF:-1 tvg-name="RS: Grand TV" group-title="EXYU",RS: Grand TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2951
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Grand 2" group-title="EXYU",RS: Grand TV 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176066
+#EXTINF:-1 tvg-name="RS: Grand Narodna Tv" group-title="EXYU",RS: Grand TV Narodna
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35761
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: IDJ TV" group-title="EXYU",RS: IDJ TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/132879
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Studio B" group-title="EXYU",RS: Studio B
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176564
+#EXTINF:-1 tvg-name="RS: CRNA GORA 1" group-title="EXYU",RS: RTV CG 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/224568
+#EXTINF:-1 tvg-id="RTCG1 ex-Yu" tvg-name="RS: CRNA GORA 2" group-title="EXYU",RS: RTV CG 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/175702
+#EXTINF:-1 tvg-name="RS: RTV Novi Pazar" group-title="EXYU",RS: RTV Novi Pazar
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2965
+#EXTINF:-1 tvg-name="RS: History Channel" group-title="EXYU",RS: History Channel
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176560
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Tv1000" group-title="EXYU",RS: TV 1000
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176068
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Fox Life" group-title="EXYU",RS: Fox Life
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176072
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Fox Crime" group-title="EXYU",RS: Fox Crime
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176073
+#EXTINF:-1 tvg-name="RS: Fox Movies" group-title="EXYU",RS: Fox Movies
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176071
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: HBO HD" group-title="EXYU",RS: HBO HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176074
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: HBO 2 HD" group-title="EXYU",RS: HBO 2 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176075
+#EXTINF:-1 tvg-name="RS: Cinemax 1" group-title="EXYU",RS: Cinemax 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2995
+#EXTINF:-1 tvg-name="RS: Cinemax 2" group-title="EXYU",RS: Cinemax 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2996
+#EXTINF:-1 tvg-name="RS: Cinestar TV Action" group-title="EXYU",RS: Cinestar TV Action
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2999
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Cinestar TV Premiere 1" group-title="EXYU",RS: Cinestar TV Premiere
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2997
+#EXTINF:-1 tvg-name="RS: Pink 1" group-title="EXYU",RS: Pink 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2970
+#EXTINF:-1 tvg-name="RS: Pink 2" group-title="EXYU",RS: Pink 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2971
+#EXTINF:-1 tvg-name="RS: Pink 3" group-title="EXYU",RS: Pink 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2972
+#EXTINF:-1 tvg-name="RS: Pink 3 Info" group-title="EXYU",RS: Pink 3 Info
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35756
+#EXTINF:-1 tvg-name="RS: Pink BiH" group-title="EXYU",RS: Pink BiH
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2973
+#EXTINF:-1 tvg-name="RS: Pink Film" group-title="EXYU",RS: Pink Film
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3005
+#EXTINF:-1 tvg-name="RS: Pink Serije" group-title="EXYU",RS: Pink Serije
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35750
+#EXTINF:-1 tvg-name="RS: Pink Classic" group-title="EXYU",RS: Pink Classic
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3002
+#EXTINF:-1 tvg-name="RS: Pink Action" group-title="EXYU",RS: Pink Action
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3001
+#EXTINF:-1 tvg-name="RS: Pink Comedy" group-title="EXYU",RS: Pink Comedy
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3003
+#EXTINF:-1 tvg-name="RS: Pink Crime and Mystery" group-title="EXYU",RS: Pink Crime and Mystery
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3004
+#EXTINF:-1 tvg-name="RS: Pink Horror" group-title="EXYU",RS: Pink Horror
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3006
+#EXTINF:-1 tvg-name="RS: Pink Family" group-title="EXYU",RS: Pink Family
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35754
+#EXTINF:-1 tvg-name="RS: Pink Kids" group-title="EXYU",RS: Pink Kids
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2976
+#EXTINF:-1 tvg-name="RS: Pink Extra" group-title="EXYU",RS: Pink Extra
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2974
+#EXTINF:-1 tvg-name="RS: Pink Reality" group-title="EXYU",RS: Pink Reality
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2978
+#EXTINF:-1 tvg-name="RS: Pink Plus" group-title="EXYU",RS: Pink Plus
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3008
+#EXTINF:-1 tvg-name="RS: Pink Zabava" group-title="EXYU",RS: Pink Zabava
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2979
+#EXTINF:-1 tvg-name="RS: Pink Kuvar" group-title="EXYU",RS: Pink Kuvar
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2975
+#EXTINF:-1 tvg-name="RS: Pink M" group-title="EXYU",RS: Pink M
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3007
+#EXTINF:-1 tvg-name="RS: Pink Movies" group-title="EXYU",RS: Pink Movies
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35759
+#EXTINF:-1 tvg-name="RS: Pink Premium" group-title="EXYU",RS: Pink Premium
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3009
+#EXTINF:-1 tvg-name="RS: Pink Romance" group-title="EXYU",RS: Pink Romance
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3010
+#EXTINF:-1 tvg-name="RS: Pink Thriller" group-title="EXYU",RS: Pink Thriller
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3013
+#EXTINF:-1 tvg-name="RS: Pink Sci-Fi and Fantasy" group-title="EXYU",RS: Pink Sci-Fi and Fantasy
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3011
+#EXTINF:-1 tvg-name="RS: Pink Western" group-title="EXYU",RS: Pink Western
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3014
+#EXTINF:-1 tvg-name="RS: Pink World" group-title="EXYU",RS: Pink World
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2985
+#EXTINF:-1 tvg-name="RS: Pink World Cinema" group-title="EXYU",RS: Pink World Cinema
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35757
+#EXTINF:-1 tvg-name="RS: Pink Pedia" group-title="EXYU",RS: Pink Pedia
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2984
+#EXTINF:-1 tvg-name="RS: Pink Folk 1" group-title="EXYU",RS: Pink Folk 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2980
+#EXTINF:-1 tvg-name="RS: Pink Folk 2" group-title="EXYU",RS: Pink Folk 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2981
+#EXTINF:-1 tvg-name="RS: Pink Hits" group-title="EXYU",RS: Pink Hits
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35760
+#EXTINF:-1 tvg-name="RS: Pink Hits 2" group-title="EXYU",RS: Pink Hits 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2982
+#EXTINF:-1 tvg-name="RS: Pink Music" group-title="EXYU",RS: Pink Music
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2983
+#EXTINF:-1 tvg-name="RS: Pink Music 2" group-title="EXYU",RS: Pink Music 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35752
+#EXTINF:-1 tvg-name="RS: Pink Koncert" group-title="EXYU",RS: Pink Koncert
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35753
+#EXTINF:-1 tvg-name="RS: Pink Soap" group-title="EXYU",RS: Pink Soap
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3012
+#EXTINF:-1 tvg-name="RS: Pink Style" group-title="EXYU",RS: Pink Style
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35749
+#EXTINF:-1 tvg-name="RS: Pink Super Kids" group-title="EXYU",RS: Pink Super Kids
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/35748
+#EXTINF:-1 tvg-name="RS: Eurosport" group-title="EXYU",RS: Eurosport 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2991
+#EXTINF:-1 tvg-name="RS: Eurosport 2" group-title="EXYU",RS: Eurosport 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2992
+#EXTINF:-1 tvg-name="RS: Sport Klub 1" group-title="EXYU",RS: Sport Klub 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/120816
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Sport Klub 2 HD" group-title="EXYU",RS: Sport Klub 2 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/175714
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: Sport Klub 3 HD" group-title="EXYU",RS: Sport Klub 3 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/175715
+#EXTINF:-1 tvg-name="RS: Arena Sport 1" group-title="EXYU",RS: Arena Sport 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2986
+#EXTINF:-1 tvg-name="RS: Arena Sport 2" group-title="EXYU",RS: Arena Sport 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2987
+#EXTINF:-1 tvg-name="RS: Arena Sport 3" group-title="EXYU",RS: Arena Sport 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2988
+#EXTINF:-1 tvg-name="RS: Arena Sport 4" group-title="EXYU",RS: Arena Sport 4
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2989
+#EXTINF:-1 tvg-name="RS: Arena Sport 5" group-title="EXYU",RS: Arena Sport 5
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2990
+#EXTINF:-1 tvg-id="NULL" tvg-name="BH: Hayat HD" group-title="EXYU",BH: Hayat HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3046
+#EXTINF:-1 tvg-id="NULL" tvg-name="BH: Hayat Plus" group-title="EXYU",BH: Hayat Plus
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3047
+#EXTINF:-1 tvg-name="BH: Hayat Folk" group-title="EXYU",BH: Hayat Folk
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3048
+#EXTINF:-1 tvg-name="BH: Hayat Music" group-title="EXYU",BH: Hayat Music
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3057
+#EXTINF:-1 tvg-name="BH: Hayatovci" group-title="EXYU",BH: Hayatovci
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3049
+#EXTINF:-1 tvg-name="BH: N1 BiH" group-title="EXYU",BH: N1 BiH
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3060
+#EXTINF:-1 tvg-name="BH: Nova Bh" group-title="EXYU",BH: Nova BH
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/36748
+#EXTINF:-1 tvg-name="BH: TV Sarajevo" group-title="EXYU",BH: TV Sarajevo
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3065
+#EXTINF:-1 tvg-name="BH: SANDZAK TV" group-title="EXYU",BH: SANDZAK TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/168848
+#EXTINF:-1 tvg-name="BH: SANDZAK TV MREZA" group-title="EXYU",BH: SANDZAK TV MREZA
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/168849
+#EXTINF:-1 tvg-name="BH: USK HD" group-title="EXYU",BH: Dobra TV Bosnjacka HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/155699
+#EXTINF:-1 tvg-name="HR: HRT 1" group-title="EXYU",HR: HRT 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3016
+#EXTINF:-1 tvg-name="HR: HRT 2" group-title="EXYU",HR: HRT 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3017
+#EXTINF:-1 tvg-name="HR: HRT 3" group-title="EXYU",HR: HRT 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3018
+#EXTINF:-1 tvg-name="HR: HRT 4" group-title="EXYU",HR: HRT 4
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3019
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: Nova TV" group-title="EXYU",HR: Nova TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3022
+#EXTINF:-1 tvg-name="HR: Doma TV" group-title="EXYU",HR: Doma TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3021
+#EXTINF:-1 tvg-name="HR: Klasik TV" group-title="EXYU",HR: Klasik TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3042
+#EXTINF:-1 tvg-name="HR: RTL" group-title="EXYU",HR: RTL
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3023
+#EXTINF:-1 tvg-name="HR: RTL 2" group-title="EXYU",HR: RTL 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3024
+#EXTINF:-1 tvg-name="HR: RTL Kockica" group-title="EXYU",HR: RTL Kockica
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3026
+#EXTINF:-1 tvg-name="HR: RTL Televizija" group-title="EXYU",HR: RTL Televizija
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176054
+#EXTINF:-1 tvg-name="HR: RTL Living" group-title="EXYU",HR: RTL Living
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176047
+#EXTINF:-1 tvg-name="HR: RTL Passion" group-title="EXYU",HR: RTL Passion
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176048
+#EXTINF:-1 tvg-name="HR: RTL Crime" group-title="EXYU",HR: RTL Crime
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176049
+#EXTINF:-1 tvg-name="HR: HBO Adria" group-title="EXYU",HR: HBO Adria
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3040
+#EXTINF:-1 tvg-name="HR: HBO 3 HD" group-title="EXYU",HR: HBO 3 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176572
+#EXTINF:-1 tvg-name="HR: Crime and Investigation" group-title="EXYU",HR: Crime and Investigation
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3032
+#EXTINF:-1 tvg-name="HR: M Movies Premiere 1" group-title="EXYU",HR: M Movies Premiere
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/187999
+#EXTINF:-1 tvg-name="HR: TLC" group-title="EXYU",HR: TLC
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176569
+#EXTINF:-1 tvg-name="HR: Nickelodeon" group-title="EXYU",HR: Nickelodeon
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3027
+#EXTINF:-1 tvg-name="HR: Nick JR" group-title="EXYU",HR: Nick JR
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176051
+#EXTINF:-1 tvg-name="HR: Discovery Channel" group-title="EXYU",HR: Discovery Channel
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3033
+#EXTINF:-1 tvg-name="HR: National Geographic Channel" group-title="EXYU",HR: National Geographic Channel
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3035
+#EXTINF:-1 tvg-name="HR: Nat Geo Wild" group-title="EXYU",HR: National Geographic Wild
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176562
+#EXTINF:-1 tvg-name="HR: Baby Tv" group-title="EXYU",HR: Baby Tv
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176053
+#EXTINF:-1 tvg-name="HR: Mini Tv" group-title="EXYU",HR: Mini Tv
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176052
+#EXTINF:-1 tvg-name="HR: History" group-title="EXYU",HR: History
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3034
+#EXTINF:-1 tvg-name="HR: Sportska TV" group-title="EXYU",HR: Sportska TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176568
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: Sport Klub 1" group-title="EXYU",HR: Sport Klub 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3036
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: Sport Klub 2" group-title="EXYU",HR: Sport Klub 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3037
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: Sport Klub 3" group-title="EXYU",HR: Sport Klub 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3038
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 1 HD" group-title="EXYU",HR: ARENA SPORT 1 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/898
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 2 HD" group-title="EXYU",HR: ARENA SPORT 2 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/899
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 3 HD" group-title="EXYU",HR: ARENA SPORT 3 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/900
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 4 HD" group-title="EXYU",HR: ARENA SPORT 4 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/901
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 5 HD" group-title="EXYU",HR: ARENA SPORT 5 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/902
+#EXTINF:-1 tvg-id="NULL" tvg-name="HR: ARENA SPORT 6 HD" group-title="EXYU",HR: ARENA SPORT 6 HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/175710
+#EXTINF:-1 tvg-name="HR: Viasat Explore" group-title="EXYU",HR: Viasat Explore
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176565
+#EXTINF:-1 tvg-name="HR: Viasat History" group-title="EXYU",HR: Viasat History
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176566
+#EXTINF:-1 tvg-name="RS: SOS Kanal" group-title="EXYU",RS: SOS Kanal
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2969
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: DM SAT" group-title="EXYU",RS: DM SAT
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2947
+#EXTINF:-1 tvg-name="RS: Duga TV" group-title="EXYU",RS: Duga TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2948
+#EXTINF:-1 tvg-name="RS: BK TV" group-title="EXYU",RS: BK TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176563
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: 24 Vijesti" group-title="EXYU",RS: 24 Vijesti
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/175709
+#EXTINF:-1 tvg-name="RS: Lov and Ribolov" group-title="EXYU",RS: Lov and Ribolov
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2954
+#EXTINF:-1 tvg-name="RS: RTRS" group-title="EXYU",RS: RTRS
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2959
+#EXTINF:-1 tvg-name="RS: KCN 2" group-title="EXYU",RS: KCN 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176561
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: KCN 3" group-title="EXYU",RS: KCN 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176076
+#EXTINF:-1 tvg-name="RS: Balkanika" group-title="EXYU",RS: Balkanika
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/2946
+#EXTINF:-1 tvg-id="NULL" tvg-name="RS: 24 Kitchen" group-title="EXYU",RS: 24 Kitchen
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176070
+#EXTINF:-1 tvg-name="RS: PLANET RADIO" group-title="EXYU",RS: PLANET RADIO
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/129251
+#EXTINF:-1 tvg-name="BH: TV 1" group-title="EXYU",BH: TV 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3063
+#EXTINF:-1 tvg-name="BH: MTV Igman" group-title="EXYU",BH: MTV Igman
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3059
+#EXTINF:-1 tvg-name="BH: OTV Valentino" group-title="EXYU",BH: OTV Valentino
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3061
+#EXTINF:-1 tvg-name="BH: RTV Zenica" group-title="EXYU",BH: RTV Zenica
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3068
+#EXTINF:-1 tvg-name="BH: TK Tuzla" group-title="EXYU",BH: TK Tuzla
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3062
+#EXTINF:-1 tvg-name="BH: TV GLAS DRINE" group-title="EXYU",BH: TV GLAS DRINE
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176571
+#EXTINF:-1 tvg-name="BH: TV Sehara HD" group-title="EXYU",BH: TV Sehara HD
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176570
+#EXTINF:-1 tvg-name="BH: IZVORNA TV" group-title="EXYU",BH: IZVORNA TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/168921
+#EXTINF:-1 tvg-name="HR: 24 Kitchen" group-title="EXYU",HR: 24 Kitchen
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3030
+#EXTINF:-1 tvg-name="HR: Animal Planet" tvg-logo="http://picon.webhop.net/logo/germany/animal_planet_2018_logo.png" group-title="EXYU",HR: Animal Planet
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3031
+#EXTINF:-1 tvg-name="HR: CMC" group-title="EXYU",HR: CMC
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3028
+#EXTINF:-1 tvg-name="HR: Jugoton Tv" group-title="EXYU",HR: Jugoton Tv
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176043
+#EXTINF:-1 tvg-name="HR: Slavonska TV" group-title="EXYU",HR: Slavonska TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176045
+#EXTINF:-1 tvg-name="HR: Vinkovacka Tv" group-title="EXYU",HR: Vinkovacka Tv
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176044
+#EXTINF:-1 tvg-name="HR: Z1" group-title="EXYU",HR: Z1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/176046
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Shenja Tv" group-title="EXYU",MK: Shenja Tv
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/210663
+#EXTINF:-1 tvg-name="MK: Telma" group-title="EXYU",MK: Telma
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3183
+#EXTINF:-1 tvg-name="MK: Sitel 3" group-title="EXYU",MK: Sitel 3
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3182
+#EXTINF:-1 tvg-name="MK: SITEL TV" group-title="EXYU",MK: SITEL TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3181
+#EXTINF:-1 tvg-name="MK: MRT TV 1" group-title="EXYU",MK: MRT TV 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3178
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT TV 2" group-title="EXYU",MK: MRT TV 2
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3179
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Kanal 5" group-title="EXYU",MK: Kanal 5
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3177
+#EXTINF:-1 tvg-name="MK: ALSAT TV" group-title="EXYU",MK: ALSAT TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3187
+#EXTINF:-1 tvg-name="MK: Alfa" group-title="EXYU",MK: Alfa
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3171
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: 24 Vesti" group-title="EXYU",MK: 24 Vesti
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135685
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Alfa TV" group-title="EXYU",MK: Alfa TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135684
+#EXTINF:-1 tvg-name="MK: Alfa TV Makedon" group-title="EXYU",MK: Alfa TV Makedon
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135668
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Hugo 1" group-title="EXYU",MK: Hugo 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135674
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: IN TV" group-title="EXYU",MK: IN TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135682
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Kanal 5+" group-title="EXYU",MK: Kanal 5+
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/3893
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: MRT 1" group-title="EXYU",MK: MRT 1
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135680
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Nova TV" group-title="EXYU",MK: Nova TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135675
+#EXTINF:-1 tvg-id="NULL" tvg-name="MK: Shutel TV" group-title="EXYU",MK: Shutel TV
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/135670
+#EXTINF:-1 tvg-name="MK: Sky Folk" group-title="EXYU",MK: Sky Folk
+http://portal.sltv.be:8080/VmBlodKvX6/QhyddjVxr0/210664
